@@ -1,0 +1,10 @@
+# Web Framework (Backend API)
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# UI Framework (Chat Interface)
+gradio>=4.0.0
+
+# HTTP Client (API calls)
+requests==2.31.0
+
